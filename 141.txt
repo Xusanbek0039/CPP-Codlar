@@ -1,0 +1,13 @@
+#include <iostream>
+
+int main() {
+    double x = 0.1722;
+    double y = 6.33;
+    double z = 3.25e-4;
+
+    std::cout << "x = " << x << std::endl;
+    std::cout << "y = " << y << std::endl;
+    std::cout << "z = " << z << std::endl;
+
+    return 0;
+}
